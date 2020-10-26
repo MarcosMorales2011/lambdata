@@ -13,7 +13,7 @@ setuptools.setup(
     description="A small package for Data Science functions.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MarcosMorales2011/lambdata",
+    url="https://github.com/MarcosMorales2011/lambdata-mm",
     packages=setuptools.find_packages(),
     install_requires=REQUIRED,
     classifiers=[
